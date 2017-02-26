@@ -106,5 +106,3 @@ def Report(instance):
                   "   ovs_int_port={0}" .format(ovs_int_port) +  "   ovs_int_vlan={0}" .format(ovs_int_vlan) + "   ovs_int_action={0}" .format(ovs_int_actions) + "\n" + \
                   "   ovs_ext_port={0}".format(ovs_ext_port) + "   ovs_ext_vlan={0}".format(ovs_ext_vlan) + "   ovs_ext_action={0}".format(ovs_ext_actions) + "\n\n"
     return output
-
-print Report("esc200")
