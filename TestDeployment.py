@@ -4,3 +4,4 @@ __EMAIL__ = "basim.alyy@gmail.com"
 import platform
 
 print platform.platform()
+
