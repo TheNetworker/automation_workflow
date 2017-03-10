@@ -5,3 +5,11 @@ import platform
 
 print platform.platform()
 
+
+# sadsdsadddasdas
+# asdas
+# asda
+# dassd
+# ads
+# asd
+# das
